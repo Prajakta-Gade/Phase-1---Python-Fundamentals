@@ -20,7 +20,7 @@ The dashboard supports multiple visualization types including bar charts, line c
 
 ## 🚀 Live Demo
 
-Check out the live demo: [Interactive Data Visualization Dashboard](https://your-demo-url.vercel.app)
+Check out the live demo: [Interactive Data Visualization Dashboard](https://v0-new-project-hrpprokmeq7-yp5qy0.vercel.app/)
 
 ## 🛠️ Technologies Used
 
@@ -51,6 +51,6 @@ Check out the live demo: [Interactive Data Visualization Dashboard](https://your
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/NLP_Data_Visualization.git
-cd NLP_Data_Visualization
+git clone https://github.com/Prajakta-Gade/Phase-1---Python-Fundamentals
+cd Phase-1---Python-Fundamentals
 
